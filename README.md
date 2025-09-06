@@ -67,5 +67,5 @@ Visualizations:
 
 ---
 
-## 👩‍💻 Author
-Project developed by **[Ton Nom]** as part of practice in **Machine Learning & Data Science**.
+##  Author
+Project developed by **Gacem Aicha** as part of practice in **Machine Learning & Data Science**.
